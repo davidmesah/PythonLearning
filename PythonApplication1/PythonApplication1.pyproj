@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Ejercicio 4 - Copy.py" />
     <Compile Include="Ejercicio 4.py">
       <SubType>Code</SubType>
     </Compile>
