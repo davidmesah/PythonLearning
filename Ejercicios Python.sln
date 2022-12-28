@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicio 3", "Ejercicio 3", "{E499F76D-E69A-4CCA-ACA7-C1F50A65A783}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicios", "Ejercicios", "{E499F76D-E69A-4CCA-ACA7-C1F50A65A783}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{9376306B-A3FB-4EB3-87CD-602693F1AA42}"
 EndProject
