@@ -15,7 +15,6 @@ def num_primo():
               if number % i == 0:
                   is_divisible = True
                   break 
-
             if not is_divisible:
                 print(number)
 
