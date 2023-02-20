@@ -19,4 +19,5 @@ def num_primo():
             if not is_divisible:
                 print(number)
 
+
 num_primo()
