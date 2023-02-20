@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Ejercicio 10.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Ejercicio 5.py">
       <SubType>Code</SubType>
     </Compile>
