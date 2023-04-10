@@ -6,4 +6,5 @@ def is_anagram(word_one, word_two):
         return False
     return sorted(word_one.lower()) == sorted(word_two.lower())
 
+
 print(is_anagram("Amor", "Roma"))
